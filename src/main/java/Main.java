@@ -26,7 +26,6 @@ public class Main {
         VehicleInspectionController vehicleInspectionController = new VehicleInspectionController();
         FaultController faultController = new FaultController();
 
-
         DefaultTerminalFactory terminalFactory = new DefaultTerminalFactory();
         Screen screen = null;
 
